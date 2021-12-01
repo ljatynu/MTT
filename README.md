@@ -1,0 +1,3 @@
+# MTT
+Source code for the multi-tokenization transformer based prediction tools
+This repository contains the source code of the multi-tokenization transformer model (MTT) which was proposed as the encoder to obtain a high-quality representation of sequential data. The MTT is used to provide two machine learning-based predictive tools specifically designed for NPs that (a) predict the anti-inflammatory activity of NPs, and (b) predict the compound-target relationship for compounds and targets collected in the database but lacking existing relationship data. See our online web platform of anti-inflammatory natural products: http://www.inflamnat.com/
